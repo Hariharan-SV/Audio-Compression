@@ -4,11 +4,6 @@ Created on Tue Apr  2 04:55:19 2019
 
 @author: DELL
 """
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar 31 00:19:15 2019
-@author: Narayanan Krishna
-"""
 
 import matplotlib.pyplot as plt
 import numpy as np
